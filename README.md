@@ -5,5 +5,5 @@
 * Dongming Mao
 * Jie Jia
 * Mohammed Alshamrani
-* Sato Nakamura
+* Satoshi Nakamura
 * Kyle Quinn
